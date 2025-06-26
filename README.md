@@ -43,14 +43,6 @@ Passionate about building intelligent systems with explainable and ethical AI.
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=roaaraafat&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roaaraafat&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/roaa-raafat)
