@@ -7,8 +7,12 @@ Passionate about building intelligent systems with explainable and ethical AI.
 
 ## 🛠️ Technical Toolkit
 
-**🧠 Machine Learning**  
+**🧠 Core Languages**  
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://java.com/)
+
+**🤖 Machine Learning**  
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-important)](https://shap.readthedocs.io/)
