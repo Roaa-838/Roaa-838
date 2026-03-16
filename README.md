@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/user-attachments/assets/116974d6-6d51-4a14-b190-6d402afb1849" width="800" alt="Roaa AI Avatar" style="border-radius: 15px;">
-</div>
+</div> -->
 
 <br>
 
