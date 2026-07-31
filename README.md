@@ -6,14 +6,9 @@
 
 # 👋 Hi, I'm Roaa Raafat
 
-**AI Engineer | Data Scientist | Python Developer** 🎓 Final-year Data Science & Artificial Intelligence Undergraduate. Passionate about building intelligent systems with explainable AI, computer vision, and natural language processing.
+**AI Engineer | Data Scientist | Python Developer** Passionate about building intelligent systems with explainable AI, computer vision, and natural language processing.
 
----
 
-## 🚀 Current Focus
-* **Graduation Project:** Developing **SumoFlowAI**, an AI-driven traffic optimization system using YOLO and SUMO to reduce CO2 emissions.
-* **Academics:** Deepening my expertise in Computer Vision, NLP, MLOps, GANs, and Multimodal Deep Learning.
-* **Goals for 2026:** Preparing for Master's programs in AI 
 
 
 ## 🛠️ Technical Arsenal
